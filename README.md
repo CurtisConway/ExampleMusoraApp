@@ -1,2 +1,2 @@
 # ExampleMusoraApp
-A simple example app built using MusoraJS
+A simple example app built using React Native and MusoraJS
