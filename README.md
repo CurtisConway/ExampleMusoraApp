@@ -23,7 +23,15 @@ npx comes shipped with Node and will handle everything else for you.
 
 `pod install`
 
+`npm start`
+
+In a separate terminal:
+
 `npx react-native run-ios`
 
 ### Android
+`npm start`
+
+In a separate terminal:
+
 `npx react-native run-android`
