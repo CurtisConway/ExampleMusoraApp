@@ -16,7 +16,9 @@ If you have the old react-native-cli installed globally it's recommended to unin
 
 `npm uninstall -g react-native-cli`
 
-npx comes shipped with Node and will handle everything else for you.
+npx comes shipped with Node and will handle everything else for you. If npx did not install automatically on your machine:
+
+`npm install -g npx`
 
 ### IOS
 `cd ios`
